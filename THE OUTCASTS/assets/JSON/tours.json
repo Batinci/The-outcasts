@@ -1,0 +1,5 @@
+[
+  { "title": "New York", "price": 1200, "img": "newyork.jpg" },
+  { "title": "Paris", "price": 900, "img": "paris.jpg" },
+  { "title": "Tokyo", "price": 1500, "img": "sanfran.jpg" }
+]
